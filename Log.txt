@@ -1,0 +1,174 @@
+11.12.2014 17:45:12
+Anzahl der Threads: 1
+Transaktionen vor der Messung: 1360
+Transaktionen nach der Messung: 3226
+Durchschnittliche Anzahl Transaktionen: 6.22 1/s
+
+11.12.2014 17:56:11
+Anzahl der Threads: 1
+Transaktionen vor der Messung: 1533
+Transaktionen nach der Messung: 3373
+Durchschnittliche Anzahl Transaktionen: 6.133333 1/s
+
+11.12.2014 18:09:20
+Anzahl der Threads: 1
+Transaktionen vor der Messung: 4535
+Transaktionen nach der Messung: 9857
+Durchschnittliche Anzahl Transaktionen: 17.74 1/s
+
+11.12.2014 18:30:04
+Anzahl der Threads: 1
+Transaktionen vor der Messung: 3999
+Transaktionen nach der Messung: 9257
+Durchschnittliche Anzahl Transaktionen: 17.526667 1/s
+
+s11.12.2014 18:40:57
+Anzahl der Threads: 1
+Transaktionen vor der Messung: 4320
+Transaktionen nach der Messung: 9852
+Durchschnittliche Anzahl Transaktionen: 18.44 1/s
+
+11.12.2014 18:54:18
+Anzahl der Threads: 1
+Transaktionen vor der Messung: 4427
+Transaktionen nach der Messung: 9995
+Durchschnittliche Anzahl Transaktionen: 18.56 1/s
+
+s11.12.2014 19:04:39
+Anzahl der Threads: 1
+Transaktionen vor der Messung: 4498
+Transaktionen nach der Messung: 10129
+Durchschnittliche Anzahl Transaktionen: 18.77 1/s
+
+s11.12.2014 19:17:19
+Anzahl der Threads: 5
+Transaktionen vor der Messung: 21573
+Transaktionen nach der Messung: 49279
+Durchschnittliche Anzahl Transaktionen: 92.35333 1/s
+
+s11.12.2014 19:38:24
+Anzahl der Threads: 5
+Transaktionen vor der Messung: 22604
+Transaktionen nach der Messung: 50686
+Durchschnittliche Anzahl Transaktionen: 93.60667 1/s
+
+s11.12.2014 19:54:55
+Anzahl der Threads: 5
+Transaktionen vor der Messung: 22423
+Transaktionen nach der Messung: 50166
+Durchschnittliche Anzahl Transaktionen: 92.47667 1/s
+
+11.12.2014 20:47:32
+Anzahl der Threads: 1
+Transaktionen vor der Messung: 4371
+Transaktionen nach der Messung: 9868
+Durchschnittliche Anzahl Transaktionen: 18.323334 1/s
+
+15.12.2014 14:08:25
+Anzahl der Threads: 5
+Transaktionen vor der Messung: 14024
+Transaktionen nach der Messung: 30748
+Durchschnittliche Anzahl Transaktionen: 55.746666 1/s
+
+15.12.2014 14:20:18
+Anzahl der Threads: 5
+Transaktionen vor der Messung: 15672
+Transaktionen nach der Messung: 34493
+Durchschnittliche Anzahl Transaktionen: 62.736668 1/s
+
+15.12.2014 14:35:49
+Anzahl der Threads: 5
+Transaktionen vor der Messung: 22715
+Transaktionen nach der Messung: 50312
+Durchschnittliche Anzahl Transaktionen: 91.99 1/s
+
+16.12.2014 11:06:05
+Anzahl der Threads: 5
+Transaktionen vor der Messung: 22726
+Transaktionen nach der Messung: 42649
+Durchschnittliche Anzahl Transaktionen: 66.41 1/s
+
+16.12.2014 11:16:59
+Anzahl der Threads: 5
+Transaktionen vor der Messung: 16794
+Transaktionen nach der Messung: 37245
+Durchschnittliche Anzahl Transaktionen: 68.17 1/s
+
+16.12.2014 11:28:00
+Anzahl der Threads: 5
+Transaktionen vor der Messung: 18585
+Transaktionen nach der Messung: 45584
+Durchschnittliche Anzahl Transaktionen: 89.996666 1/s
+
+16.12.2014 14:21:21
+Anzahl der Threads: 0
+Transaktionen vor der Messung: 0
+Transaktionen nach der Messung: 0
+Durchschnittliche Anzahl Transaktionen: 0.0 1/s
+
+16.12.2014 15:02:28
+Anzahl der Threads: 5
+Transaktionen vor der Messung: 22409
+Transaktionen nach der Messung: 50323
+Durchschnittliche Anzahl Transaktionen: 93.04667 1/s
+
+16.12.2014 15:21:09
+Anzahl der Threads: 5
+Transaktionen vor der Messung: 22777
+Transaktionen nach der Messung: 50787
+Durchschnittliche Anzahl Transaktionen: 93.36667 1/s
+
+16.12.2014 20:12:10
+Anzahl der Threads: 5
+Transaktionen vor der Messung: 22624
+Transaktionen nach der Messung: 50701
+Durchschnittliche Anzahl Transaktionen: 93.59 1/s
+
+17.12.2014 18:38:27
+Anzahl der Threads: 5
+Transaktionen vor der Messung: 2366
+Transaktionen nach der Messung: 8682
+Durchschnittliche Anzahl Transaktionen: 21.053333 1/s
+
+17.12.2014 19:06:24
+Anzahl der Threads: 5
+Transaktionen vor der Messung: 8126
+Transaktionen nach der Messung: 22662
+Durchschnittliche Anzahl Transaktionen: 48.453335 1/s
+
+17.12.2014 19:39:02
+Anzahl der Threads: 5
+Transaktionen vor der Messung: 14357
+Transaktionen nach der Messung: 36115
+Durchschnittliche Anzahl Transaktionen: 72.526665 1/s
+
+17.12.2014 19:49:07
+Anzahl der Threads: 5
+Transaktionen vor der Messung: 19777
+Transaktionen nach der Messung: 46147
+Durchschnittliche Anzahl Transaktionen: 87.9 1/s
+
+17.12.2014 21:00:46
+Anzahl der Threads: 5
+Transaktionen vor der Messung: 22384
+Transaktionen nach der Messung: 50648
+Durchschnittliche Anzahl Transaktionen: 94.21333 1/s
+
+07.01.2015 14:41:11
+Anzahl der Threads: 5
+Transaktionen vor der Messung: 22470
+Transaktionen nach der Messung: 49994
+Durchschnittliche Anzahl Transaktionen: 91.746666 1/s
+
+07.01.2015 14:51:29
+Anzahl der Threads: 5
+Transaktionen vor der Messung: 22589
+Transaktionen nach der Messung: 50209
+Durchschnittliche Anzahl Transaktionen: 92.066666 1/s
+
+15.01.2015 14:27:01
+Anzahl der Threads: 5
+Transaktionen vor der Messung: 7731
+Transaktionen nach der Messung: 12888
+Durchschnittliche Anzahl Transaktionen: 17.19 1/s
+

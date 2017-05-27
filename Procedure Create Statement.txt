@@ -1,0 +1,25 @@
+DELIMITER $$
+CREATE DEFINER=`dbiallhosts`@`%` PROCEDURE `einzahlung`(IN myaccid int, IN mytellerid int, IN mybranchid int, IN mydelta int, IN mycmmnt varchar(30), OUT newbalance int)
+BEGIN
+update accounts set balance = (select balance + mydelta) where accid = myaccid;
+insert into history (accid, tellerid, delta, branchid, accbalance, cmmnt)
+values (myaccid, mytellerid, mydelta, mybranchid, 
+(select balance from accounts where accid = myaccid), mycmmnt);
+update tellers 
+set 
+    balance = (select balance + mydelta)
+where
+    tellerid = mytellerid;
+update branches 
+set 
+    balance = (select balance + mydelta)
+where
+    branchid = mybranchid;
+select 
+    balance
+into newbalance from
+    accounts
+where
+    accid = myaccid;
+END$$
+DELIMITER ;
